@@ -89,13 +89,13 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
 ## 📝 Required next steps (for credit)
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+* Create a new markdown file in this repository named YOUR_LAST_NAME_HERE.md. Use this file to introduce yourself to your professor and class. Review the McDonough_Example.md to see an example and guidelines for what to include.
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). If you're interested in a career that involves coding, remember that you can treat your Github a bit like you would a LinkedIn profile! It is a portfolio of your work.
+* When you're done, initiate a pull request to let me know you're done and share your introduction with the class.
 
 
 ## 📝 Optional next steps 
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 
 ## 📚  Resources 
